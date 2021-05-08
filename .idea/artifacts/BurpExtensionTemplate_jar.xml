@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BurpExtensionTemplate:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BurpExtensionTemplate_jar</output-path>
+    <root id="archive" name="BurpExtensionTemplate.jar">
+      <element id="module-output" name="BurpExtensionTemplate.main" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.15/49d94806b6e3dc933dacbd8acb0fdbab8ebd1e5d/commons-codec-1.15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.portswigger.burp.extender/burp-extender-api/2.1/6726c0c9ebfec758177ac643b37ba0318820427d/burp-extender-api-2.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
